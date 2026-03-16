@@ -1,0 +1,10 @@
+.main {
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid rgb(22, 108, 195);
+}
+
+li {
+  margin: 10px 0;
+  margin-left: 19px;
+}

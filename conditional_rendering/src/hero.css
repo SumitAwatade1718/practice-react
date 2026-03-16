@@ -1,0 +1,20 @@
+.hero {
+  display: flex;
+    justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  border: 3px solid rgb(22, 108, 195);
+  margin: 20px;
+  height: 90px;
+}
+.hero h1 {
+  color: rgb(9, 10, 10);
+  border: 2px solid red;
+}
+
+.hero p {
+  color: rgb(26, 47, 67);
+  text-align: center;
+  border: 2px solid red;
+}
